@@ -5,6 +5,10 @@ export const navigation = [
     path: '',
     items: [
       {
+        text: 'Customers',
+        path: '/crm-customers-list',
+      },
+      {
         text: 'Contact List',
         path: '/crm-contact-list',
       },

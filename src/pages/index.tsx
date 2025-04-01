@@ -1,4 +1,5 @@
 export { CRMContactList } from './crm-contact-list/crm-contact-list';
+export{ CRMCustomerList } from './crm-customer-list/crm-customer-list';
 export { CRMContactDetails } from './crm-contact-details/crm-contact-details';
 export { PlanningTaskList } from './planning-task-list/planning-task-list';
 export { PlanningTaskDetails } from './planning-task-details/planning-task-details';

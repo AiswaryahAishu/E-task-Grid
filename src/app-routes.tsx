@@ -1,6 +1,7 @@
 import {
   CRMContactDetails,
   CRMContactList,
+  CRMCustomerList,
   PlanningScheduler,
   PlanningTaskList,
   PlanningTaskDetails,
@@ -18,6 +19,10 @@ const routes = [
   {
     path: '/crm-contact-details',
     element: CRMContactDetails,
+  },
+  {
+    path: '/crm-customers-list',
+    element: CRMCustomerList,
   },
   {
     path: '/crm-contact-list',
